@@ -19,4 +19,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nikolakurbalija/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikolakurbalija/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCZtVjhHje6-BE1HTTsjAVwQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucztvjhhje6-be1httsjavwq" height="30" width="40" /></a>
+<a href="https://instagram.com/nikola_7089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikola_7089" height="30" width="40" /></a>
 </p>
