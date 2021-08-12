@@ -20,5 +20,5 @@
 <a href="https://www.linkedin.com/in/nikolakurbalija/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikolakurbalija/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCZtVjhHje6-BE1HTTsjAVwQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucztvjhhje6-be1httsjavwq" height="30" width="40" /></a>
 <a href="https://instagram.com/nikola_7089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikola_7089" height="30" width="40" /></a>
-<a href="https://twitch.tv/tobe1" target="blank"><img align="center" src="https://www.svgrepo.com/show/109411/twitch.svg" alt="tobe1" height="30" width="40" /></a>
+<a href="https://twitch.tv/tobe1" target="blank"><img align="center" src="https://icon-library.com/images/twitch-icon-png/twitch-icon-png-11.jpg" alt="tobe1" height="30" width="30" /></a>
 </p>
