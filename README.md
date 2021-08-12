@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning - **Flask, Kubernetes, Docker...**
 
-- ⚡ Fun fact - **I like astronomy, philosophy, and video games**
+- ⚡ Fun fact - **I like astronomy, philosophy, and video games.**
 
-
+- 💬 Ask me about - **literally anything, I would be glad to talk to you.**
 
 
 <h3 align="left">Languages and Tools:</h3>
