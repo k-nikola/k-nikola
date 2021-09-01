@@ -1,13 +1,13 @@
 ### Hi 👋, I'm Nikola, a network engineer from Serbia. ###
 #### I enjoy coding, and learning new languages/frameworks. I mostly use Python in my projects. ####
 
-- 🔭 I’m currently working on - **Deploying a flask app inside a kubernetes cluster.**
+- 🔭 I’m currently working on - **Deploying a flask web application inside a kubernetes cluster.**
 
-- 🌱 I’m currently learning - **Flask, Kubernetes, Docker...**
+- 🌱 I’m currently learning - **Flask, Selenium...**
 
 - ⚡ Fun fact - **I like astronomy, philosophy, and video games.**
 
-- 💬 Ask me about - **literally anything, I would be glad to talk to you.**
+- 💬 Ask me about - **literally anything. I would be glad to talk to you.**
 
 
 <h3 align="left">Languages and Tools:</h3>
