@@ -1,11 +1,14 @@
-### Hi 👋, I'm Nikola, a network engineer from Serbia. ###
+###  Hi, I'm Nikola, a network engineer from Serbia. ![avatar (1)](https://user-images.githubusercontent.com/81910142/134351901-7288165e-fd98-4536-b6fd-3b1960804944.png) ###
 #### I enjoy coding, and learning new languages/frameworks. I mostly use Python in my projects. ####
 
-- 🔭 I’m currently working on - **Deploying a flask web application inside a kubernetes cluster.**
 
-- 🌱 I’m currently learning - **Flask, Selenium...**
+- 🛠️ I’m currently working on - **Deploying a flask web application inside a kubernetes cluster.**
+
+- 🤯 I’m currently learning - **Terraform...**
 
 - ⚡ Fun fact - **I like astronomy, philosophy, and video games.**
+
+- 🎮 Currently playing - **🧝The legend of Zelda: The minish cap**
 
 - 💬 Ask me about - **literally anything. I would be glad to talk to you.**
 
