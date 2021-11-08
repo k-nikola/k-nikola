@@ -1,6 +1,5 @@
-###  Hi, I'm Nikola, a network engineer from Serbia. ![avatar (1)](https://user-images.githubusercontent.com/81910142/134351901-7288165e-fd98-4536-b6fd-3b1960804944.png) ###
+###  Hi, I'm Nikola, a DevOps engineer from Serbia. <img src="https://31.media.tumblr.com/768ab30e84d23aff4961c67ec6ce4d53/tumblr_mfoj2zOLaz1rj0wh6o1_250.gif" alt="link" width="100" height="100"/> ###  
 #### I enjoy coding, and learning new languages/frameworks. I mostly use Python in my projects. ####
-
 
 - 🛠️ I’m currently working on - **Deploying a flask web application inside a kubernetes cluster.**
 
@@ -8,7 +7,7 @@
 
 - ⚡ Fun fact - **I like astronomy, philosophy, and video games.**
 
-- 🎮 Currently playing - **🧝The legend of Zelda: The minish cap**
+- 🎮 Currently playing - **🧝The legend of Zelda: The minish cap** & **The legend of Zelda: Breath of the wild**
 
 - 💬 Ask me about - **literally anything. I would be glad to talk to you.**
 
