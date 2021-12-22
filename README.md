@@ -1,9 +1,9 @@
 ###  Hi, I'm Nikola, a DevOps engineer from Serbia. <img src="http://pa1.narvii.com/6867/157bc1de3d1922a1b9f930461b5679d5daca2b31r1-200-238_00.gif" alt="link" width="120" height="120" align='right'/> ###  
 #### I enjoy coding, and learning new languages/frameworks. I mostly use Python in my projects. ####
 
-- 🛠️ I’m currently working on - **Deploying a flask web application inside a kubernetes cluster.**
+- 🛠️ I’m currently working on - **Designing a new project and writing my master thesis.**
 
-- 🤯 I’m currently learning - **Terraform...**
+- 🤯 I’m currently learning - **Terraform, AWS CDK...**
 
 - ⚡ Fun fact - **I like astronomy, philosophy, and video games.**
 
