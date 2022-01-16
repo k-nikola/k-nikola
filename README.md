@@ -3,7 +3,7 @@
 
 - 🛠️ I’m currently working on - **Designing a new project and writing my master thesis.**
 
-- 🤯 I’m currently learning - **Terraform, AWS CDK...**
+- 🤯 I’m currently learning - **Terraform, AWS CDK, AKS, EKS and Pulumi...**
 
 - ⚡ Fun fact - **I like astronomy, philosophy, and video games.**
 
