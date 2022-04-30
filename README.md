@@ -17,7 +17,7 @@
 </a> <a href="https://www.selenium.dev/" target="_blank"> <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="selenium" width="40" height="40"/> </a>
 </a> <a href="https://www.ansible.com/" target="_blank"> <img src="https://i1.wp.com/nickvsnetworking.com/wp-content/uploads/2020/02/Ansible-Mark-Large-RGB-Mango.png" alt="ansible" width="40" height="40"/> </a>
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/65281416?s=280&v=4" alt="terraform" width="40" height="40"/> </a>
-<a href="hhttps://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
+<a href="hhttps://aws.amazon.com/" target="_blank"> <img src="https://zeevector.com/wp-content/uploads/Aws-Logo-PNG@zeevector.com_.png" alt="aws" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://pulumi.org" target="_blank"> <img src="https://www.pulumi.com/logos/brand/avatar-on-white.svg" alt="pulumi" width="40" height="40"/> </a>
 </p>
