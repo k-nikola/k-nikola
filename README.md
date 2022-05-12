@@ -3,7 +3,7 @@
 
 - 🛠️ I’m currently working on - **My master thesis.**
 
-- 🤯 I'm currently learning - **Terraform, AWS CDK, AKS, EKS and Pulumi...**
+- 🤯 I'm currently learning - **Pulumi & TS...**
 
 - 🎮 I'm currently playing - **🧝The legend of Zelda: The minish cap** & **The legend of Zelda: Breath of the wild**
 
