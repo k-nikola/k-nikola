@@ -5,7 +5,7 @@
 
 - 🤯 I'm currently learning - **Pulumi & TS...**
 
-- 🎮 I'm currently playing - **🧝The legend of Zelda: The minish cap** & **The legend of Zelda: Breath of the wild**
+- 🎮 I'm currently playing - **🧝The legend of Zelda: The minish cap**
 
 - 📚 I'm currently reading - **Notes from the underground - F. Dostoevsky**
 
