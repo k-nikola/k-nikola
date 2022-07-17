@@ -5,7 +5,7 @@
 
 - 🤯 I'm currently learning - **Pulumi & TS...**
 
-- 🎮 I'm currently playing - **🧝The legend of Zelda: The minish cap** && **⚜️AC:Unity**
+- 🎮 I'm currently playing - **🛸 Star Wars: Jedi Fallen Order && ⚔️ Devil May Cry 5**
 
 - 📚 I'm currently reading - **Notes from the underground - F. Dostoevsky**
 
