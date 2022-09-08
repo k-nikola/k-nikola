@@ -7,7 +7,7 @@
 
 - 🎮 I'm currently playing - **⚔️ Devil May Cry 5**
 
-- 📚 I'm currently reading - **Steppenwolf - H. Hesse **
+- 📚 I'm currently reading - **Steppenwolf - H. Hesse**
 
 - ⚡ Fun fact - **I like astronomy, philosophy, and video games.**
 
