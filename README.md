@@ -5,9 +5,9 @@
 
 - 🤯 I'm currently learning - **Pulumi & TS...**
 
-- 🎮 I'm currently playing - **🛸 Star Wars: Jedi Fallen Order && ⚔️ Devil May Cry 5**
+- 🎮 I'm currently playing - **⚔️ Devil May Cry 5**
 
-- 📚 I'm currently reading - **Notes from the underground - F. Dostoevsky**
+- 📚 I'm currently reading - **Steppenwolf - H. Hesse **
 
 - ⚡ Fun fact - **I like astronomy, philosophy, and video games.**
 
