@@ -1,5 +1,5 @@
 ###  Hi, I'm Nikola, a DevOps engineer from Serbia. <img src="http://pa1.narvii.com/6867/157bc1de3d1922a1b9f930461b5679d5daca2b31r1-200-238_00.gif" alt="link" width="120" height="120" align='right'/> ###  
-#### I enjoy coding, and learning new languages/frameworks. I mostly use Python in my projects. ####
+#### I enjoy coding, and learning new technologies. ####
 
 - 🛠️ I’m currently working on - **NodeJS Express TS project.**
 
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact - **I like astronomy, philosophy, and video games.**
 
-- 💬 Ask me about - **IaC tools :) **
+- 💬 Ask me about - **Manga :)**
 
 
 <h3 align="left">Languages and Tools:</h3>
