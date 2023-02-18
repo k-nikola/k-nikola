@@ -3,13 +3,13 @@
 
 - 🛠️ I’m currently working on - **NodeJS Express TS project.**
 
-- 🤯 I'm currently learning - **Pulumi, Node, TS...**
+- 🤯 I'm currently learning - **Node, TS...**
 
-- 🎮 I'm currently playing - **Elden Ring & Dark Souls Remastered 🛡️**
+- 🎮 I'm currently playing - **Hogwarts Legacy 🏰 & Dark Souls Remastered 🛡️**
 
-- 📚 I'm currently reading - **Steppenwolf - H. Hesse**
+- 📖 I'm currently reading - **Sword of Destiny - A. Sapkowski | Gantz - H. Oku | Oyasumi Punpun - I. Asano**
 
-- ⚡ Fun fact - **I like astronomy, philosophy, and video games.**
+- ⚡ Fun fact - **I like astronomy, philosophy, manga and video games.**
 
 - 💬 Ask me about - **Manga :)**
 
