@@ -1,17 +1,19 @@
 ###  Hi, I'm Nikola, a DevOps engineer from Serbia. <img src="https://giffiles.alphacoders.com/146/14693.gif" alt="link" width="240" height="200" align='right'/> ###  
 #### I enjoy coding, and learning new technologies. ####
 
-- 🛠️ I’m currently working on - **NodeJS Express TS project.**
+- 🛠️ I’m currently working on - **an app to catalogue exoplanets 🪐**
 
-- 🤯 I'm currently learning - **Node, TS...**
+- 🤯 I'm currently learning - **AI, Serverless, TS...**
 
 - 🎮 I'm currently playing - **Hogwarts Legacy 🏰 & Dark Souls Remastered 🛡️**
 
-- 📖 I'm currently reading - **Sword of Destiny - A. Sapkowski | Gantz - H. Oku | Oyasumi Punpun - I. Asano**
+- 📖 Books I'm reading - **Crime and punishment - F. Dostoevsky | Sword of Destiny - A. Sapkowski** 
 
-- ⚡ Fun fact - **I like astronomy, philosophy, manga and video games.**
+- 📚 Mangas I'm reading - **Gantz - H. Oku | Oyasumi Punpun - I. Asano**
 
-- 💬 Ask me about - **Manga :)**
+- ⚡ Fun fact - **Used to play a lot of volleyball as a teen 🏐**
+
+- 💬 Ask me about - **Cosmic event horizon? Berserk? 😄**
 
 
 <h3 align="left">Languages and Tools:</h3>
