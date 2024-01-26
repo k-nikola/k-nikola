@@ -3,13 +3,13 @@
 
 - 🛠️ I’m currently working on - **An app to catalogue exoplanets 🪐**
 
-- 🤯 I'm currently learning - **Serverless, TS...**
+- 🤯 I'm currently learning about - **AI use in IaC...**
 
-- 🎮 I'm currently playing - **Dark Souls Remastered 🛡️ && Dark Souls 3 ⚔️**
+- 🎮 I'm currently playing - **Dark Souls Remastered 🛡️Sekiro: Shadows die twice ⛩️**
 
-- 📖 Books I'm reading - **Crime and punishment - F. Dostoevsky | Sword of Destiny - A. Sapkowski** 
+- 📖 Books I'm reading - **Sword of Destiny - A. Sapkowski** 
 
-- 📚 Mangas I'm reading - **Oyasumi Punpun - I. Asano**
+- 📚 Mangas I'm reading - **Inuyashiki - Hiroya Oku**
 
 - ⚡ Fun fact - **A shark is the only known fish that can blink with both eyes🦈**
 
