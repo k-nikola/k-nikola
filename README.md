@@ -1,15 +1,15 @@
 ###  Hi, I'm Nikola, a DevOps engineer from Serbia. <img src="https://giffiles.alphacoders.com/146/14693.gif" alt="link" width="240" height="200" align='right'/> ###  
-#### I enjoy coding, and learning new technologies. ####
+#### I enjoy coding, astronomy, reading fantasy novels and playing trading card games. ####
 
 - 🛠️ I’m currently working on - **An app to catalogue exoplanets 🪐**
 
 - 🤯 I'm currently learning about - **AI use in IaC...**
 
-- 🎮 I'm currently playing - **Dark Souls Remastered 🛡️Sekiro: Shadows die twice ⛩️**
+- 🎮 I'm currently playing - **Dark Souls III 🛡️**
 
-- 📖 Books I'm reading - **Sword of Destiny - A. Sapkowski** 
+- 📖 Books I'm reading - **The Hero of Ages - Brandon Sanderson** 
 
-- 📚 Mangas I'm reading - **Inuyashiki - Hiroya Oku**
+- 📚 Mangas I'm reading - **Berserk - Kentaro Miyura**
 
 - ⚡ Fun fact - **A shark is the only known fish that can blink with both eyes🦈**
 
