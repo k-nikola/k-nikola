@@ -5,9 +5,9 @@
 
 - 🤯 I'm currently learning about - **AI use in IaC...**
 
-- 🎮 I'm currently playing - **Dark Souls III 🛡️**
+- 🎮 I'm currently playing - **Master Duel 🃏**
 
-- 📖 Books I'm reading - **The Hero of Ages - Brandon Sanderson** 
+- 📖 Books I'm reading - **The way of kings - The Stormlight Archive - Brandon Sanderson** 
 
 - 📚 Mangas I'm reading - **Berserk - Kentaro Miyura**
 
