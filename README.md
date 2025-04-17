@@ -7,7 +7,7 @@
 
 - 🎮 I'm currently playing - **Master Duel 🃏**
 
-- 📖 Books I'm reading - **The way of kings - The Stormlight Archive - Brandon Sanderson** 
+- 📖 Books I'm reading - **Words of radiance - The Stormlight Archive - Brandon Sanderson** 
 
 - 📚 Mangas I'm reading - **Berserk - Kentaro Miyura**
 
